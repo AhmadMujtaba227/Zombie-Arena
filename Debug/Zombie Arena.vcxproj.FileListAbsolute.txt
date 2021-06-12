@@ -1,0 +1,2 @@
+G:\VS Projects\Zombie Arena\Debug\Zombie Arena.exe
+G:\VS Projects\Zombie Arena\Debug\Zombie Arena.pdb
